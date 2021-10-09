@@ -1,0 +1,4 @@
+Fedora Linux Silverblue
+-> swaywm
+-> zsh
+-> neovim
